@@ -1,0 +1,1 @@
+variable "vpc_attachments" { type = map(any) }
